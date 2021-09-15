@@ -1,6 +1,6 @@
 package main
 
-import "symbol-scrapper/indices"
+import "github.com/gibbm/hot-stock-tracker_symbol-scrapper/indices"
 
 func main() {
 	indices.LoadSingeValues()
